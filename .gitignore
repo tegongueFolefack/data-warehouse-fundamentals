@@ -14,7 +14,6 @@ __pycache__/
 
 # Ignore database files and credentials
 *.db
-*.sql
 *.csv
 
 # Ignore OS-generated files
